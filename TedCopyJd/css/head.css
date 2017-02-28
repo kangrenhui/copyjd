@@ -1,0 +1,72 @@
+@charset "utf-8";
+
+.header {
+	background-color: #f1f1f1;
+	height: 30px;
+	line-height: 30px;
+}
+
+.topbar_left{
+	float: left;
+}
+
+.topbar_right{
+	width: 640px;
+	float: right;
+}
+
+.topbar_right ul{
+	float: right;
+}
+
+.topbar_right ul li{
+	padding-left: 5px;
+	float: left;
+}
+
+.topbar_right ul .phone_jd{
+	padding-left: 18px;
+	margin-left: 2px;
+	background: url(../img/sprite.png) left top no-repeat;
+	background-position-y: 5px;
+}
+
+.a_login {
+	float: left;
+}
+
+.banner {
+	position: relative;
+	background-color: #8A25C6;
+}
+
+.banner_img{
+	height: 80px;
+	background: url(../img/topbanner.jpg) no-repeat;
+}
+
+.closefix{
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	background: url(../img/close.png) no-repeat;
+	top: 10px;
+	right: 100px;
+}
+
+.search_img_1{
+	width: 170px;
+	height: 150px;
+	margin-top: 20px;
+	float: left;
+	background: url(../img/logo.png) no-repeat;
+}
+
+.search_img_2{
+	width: 180px;
+	height: 150px;
+	float: left;
+	background: url(../img/dong.gif) no-repeat;
+}
+
+
