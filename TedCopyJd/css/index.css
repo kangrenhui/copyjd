@@ -1,0 +1,68 @@
+.puduct{
+	height: 500px;
+	position: relative;
+}
+
+.puduct_menu{
+	width: 900px;
+	height: 50px;
+}
+
+.puduct_menu ul{
+	height: 50px;
+	float: left;
+}
+
+.puduct_menu ul li{
+	float: left;
+}
+
+.puduct_menu ul .all_project{
+	background: red;
+	width: 180px;
+	height: 50px;
+	color: white;
+	font-family: "微软雅黑";
+	font-size: 18px;
+	line-height: 50px;
+	padding-left: 20px;
+}
+
+.puduct_menu ul .all_project a{
+	color: white;
+	font-family: "微软雅黑";
+	font-size: 18px;]
+}
+
+.puduct_menu ul li{
+	width: 70px;
+	height: 50px;
+	line-height: 50px;
+	font: "微软雅黑";
+	font-size: 14px;
+	color: black;
+	text-align: center;
+}
+
+.puduct_menu ul li a{
+	font: "微软雅黑";
+	font-size: 16px;
+	color: black;
+}
+
+.menu_right {
+	width: 100px;
+	height: 50px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: url(../img/bike.jpg) no-repeat; 
+}
+
+.menu_bottom{
+	width: 200px;
+	height: 300px;
+	background: darkred;
+	float: left;
+}
+
