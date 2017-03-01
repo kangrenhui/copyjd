@@ -1,0 +1,64 @@
+.footer{
+	height: 400px;
+}
+
+.service{
+	padding-top: 50px;
+	padding-left: 50px;
+	height: 200px;
+}
+
+.service dl{
+	width: 200px;
+	float: left;
+}
+
+.service dt{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.service dd{
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+
+.map{
+	position: relative;
+	height: 150px;
+	float: left;
+	background: url(../img/china.png);
+	background-position-y: -120px;
+	padding: 10px;
+}
+
+.detail_btn{
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+
+.contact_us{
+	height: 18px;
+	 position:relative; 
+}
+
+.contact_us ul{
+	height: 18px;
+	margin-left: 40%;
+	position: relative;
+	left: -25%;
+}
+
+.contact_us li{
+	float: left;
+	padding: 0 0 0 5px;
+}
+
+.information{
+	text-align: center;
+}
+
+
